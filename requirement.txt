@@ -1,0 +1,5 @@
+pip install python-telegram-bot google-generativeai python-dotenv
+
+//python-telegram-bot: Pustaka untuk berinteraksi dengan Telegram Bot API.
+//google-generativeai: Pustaka resmi Google untuk berinteraksi dengan Gemini API.
+//python-dotenv: Untuk mengelola variabel lingkungan (kunci API dan token bot) dengan aman.
